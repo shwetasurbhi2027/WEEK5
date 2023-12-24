@@ -20,7 +20,7 @@
 </head>
 <body>
 
-    <h1>Welcome to My Sample HTML Page</h1>
+    <h1>Welcome to My Sample HTML Page made by me</h1>
     
     <p>This is a simple HTML page to demonstrate the basic structure of an HTML document.</p>
 
