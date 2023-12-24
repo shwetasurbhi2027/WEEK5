@@ -22,7 +22,7 @@
 
     <h1>Welcome to My Sample HTML Page made by me</h1>
     
-    <p>This is a simple HTML page to demonstrate the basic structure of an HTML document.</p>
+    <p>This is a  HTML page to demonstrate the basic structure of an HTML document.</p>
 
     <ul>
         <li>HTML (HyperText Markup Language) is the standard markup language for creating web pages.</li>
